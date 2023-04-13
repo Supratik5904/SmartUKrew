@@ -41,7 +41,9 @@ Aspects which we need to work upon:
 2. Add it as a plugin in browser (Future Scope) access for UKrewers only which they authenticate to access other documentation and resources so that everyone can have access to information for learning.
 
 Setting Up in Your Local:
-For this project to work in your local, you have to create a directory path as “Documents” and you can keep as many documents as possible in there from your confluence or other sources. Open your command prompt and run the “smartUkrew.py” file and once it starts on port launch your html file in the browser and you can ask it different kind of questions related to your data set. It can be code snippets or technical queries or even product functionalities.
+
+
+For this project to work in your local, you have to create a directory path as “Documents” and you can keep as many documents as possible in there from your confluence or other sources.Also create your openai_api_key from platform.openai.com and replace your open ai key in the code. Open your command prompt and run the “smartUkrew.py” file and once it starts on port launch your html file in the browser and you can ask it different kind of questions related to your data set. It can be code snippets or technical queries or even product functionalities.
 
 For Reference:
  
