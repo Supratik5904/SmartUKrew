@@ -9,7 +9,7 @@ from llama_index.readers.base import BaseReader
 from llama_index.readers.schema.base import Document
 import json
 from typing import List
-os.environ["OPENAI_API_KEY"] = "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"
+os.environ["OPENAI_API_KEY"] = "provide your open ai key"
 
 class WordpressReader(BaseReader):
     """Wordpress reader. Reads data from a Wordpress workspace.
